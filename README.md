@@ -1,6 +1,5 @@
-**Applied Data Science Capstone IBM Course**
-
-**Space X Falcon 9 First Stage Landing Prediction**
+*Applied Data Science Capstone IBM Course*
+*Space X Falcon 9 First Stage Landing Prediction*
 
 ### Summary of methodologies
 
