@@ -1,6 +1,10 @@
-Applied Data Science Capstone IBM Course
+A data science capstone IMB course, main research goal is to predict if the Falcon 9 first stage will land successful.
 
-Space X Falcon 9 First Stage Landing Prediction
+A full stack data science project from data collecting (collect from spaceX API, Wikipedia), data wrangling, EDA,
+interactive dashboard, maping plot, location analysis on map, modeling and predicting, models used are Logistic,
+SVM, Decision Tree, KNN.
+
+**Space X Falcon 9 First Stage Landing Prediction**
 
 ### Summary of methodologies
 
