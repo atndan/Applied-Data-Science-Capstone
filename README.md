@@ -1,4 +1,4 @@
-### Space X Falcon 9 First Stage Landing Prediction
+## Space X Falcon 9 First Stage Landing Prediction
 
 A data science capstone IMB course, main research goal is to predict if the Falcon 9 first stage will land successful.
 
@@ -8,7 +8,7 @@ SVM, Decision Tree, KNN.
 
 
 
-### Summary of methodologies
+## Summary of methodologies
 
 - [Data collection](https://github.com/atndan/Space-X-Falcon-9-First-Stage-Landing-Prediction/blob/main/data-collection-webscraping.ipynb)
 - [Data wrangling](https://github.com/atndan/Space-X-Falcon-9-First-Stage-Landing-Prediction/blob/main/data-wrangling.ipynb)
@@ -18,7 +18,7 @@ SVM, Decision Tree, KNN.
 - [Building a Dashboard with Plotly Dash](https://github.com/atndan/Space-X-Falcon-9-First-Stage-Landing-Prediction/blob/main/build-interactive-Dashboard-Ploty-Dash.ipynb)
 - [Predictive analysis](https://github.com/atndan/Space-X-Falcon-9-First-Stage-Landing-Prediction/blob/main/SpaceX_Machine%20Learning%20Prediction_Part_5.ipynb)
 
-### Summary of all results
+## Summary of all results
 - EDA results
 - Interactive analytics
 - Predictive analysis
